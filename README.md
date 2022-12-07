@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Olá! 👋🏼</h2>
+<h2>Hi there! i'm Wemelly👋🏼</h2>
 </div>
 <br>
 <div align="center">
@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
-<h3> Estou aprendendo: </h3>
+<h3> I'm learning: </h3>
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

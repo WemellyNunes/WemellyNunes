@@ -1,12 +1,18 @@
 <div align="center">
 <h2>Hi there! i'm Wemelly👋🏼</h2>
+  <p>I am a student in Information Systems, looking to take the first step in my career</p>
+</div>
+
+<div border="0.5 solid white" align="center">
+  <h3 color="#0969DA">A little about my interests:</h3>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/wemy-nunes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wemy-nunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemy-nunes&layout=compact&langs_count=7&theme=omni"/>
+
+<div align="center">  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wemy-nunes&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemy-nunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
 
 </div>
 <div align="center">

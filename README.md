@@ -5,6 +5,7 @@
 
 <br>
 
+<h4 align="start">Git Status</h4>
 <div align="center">  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wemy-nunes&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemy-nunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" />

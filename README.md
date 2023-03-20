@@ -3,9 +3,6 @@
   <p>I am a student in Information Systems, looking to take the first step in my career</p>
 </div>
 
-<div border="0.5 solid white" align="center">
-  <h3 color="#0969DA">A little about my interests:</h3>
-</div>
 <br>
 
 <div align="center">  

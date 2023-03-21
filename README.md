@@ -2,11 +2,11 @@
 <img width="300" src="./img/Hello! I'm Wemelly (1).png"/>
   <p>I am a student in Information Systems, looking to take the first step in my career</p>
 </div>
-
+<br>
 <div align="center">
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img  height="35em" src="https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png"></a> 
+<a href="https://www.linkedin.com/in/wemelly-nunes-03935120b/"><img  height="35em" src="https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png"></a> 
+  <a href="wemellysnunes@gmail.com"><img  height="36em" src="https://user-images.githubusercontent.com/109567488/226513794-371dc188-c3e0-43b5-9a9d-94ef88261f75.png"></a> 
 </div>
-![HTML (4) (1)](https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png)
 
 
 <div align="center">  

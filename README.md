@@ -27,7 +27,17 @@
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=ffffff">
-  
 </div>
+
+<div align="center">
+<h3>Tools: </h3>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=ededed">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="42" src="https://user-images.githubusercontent.com/109567488/226511545-3fe77de0-4c7c-4f8b-98ba-41fff4bad074.png">
+  
+
 
 ##

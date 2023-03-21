@@ -3,7 +3,10 @@
   <p>I am a student in Information Systems, looking to take the first step in my career</p>
 </div>
 
-<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img  height="35em" src="https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png"></a> 
+</div>
+![HTML (4) (1)](https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png)
 
 
 <div align="center">  

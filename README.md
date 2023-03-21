@@ -26,6 +26,8 @@
 <h3>Studying in this moment: </h3>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=ffffff">
+  
 </div>
 
 ##

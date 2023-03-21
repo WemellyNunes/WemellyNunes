@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/wemelly-nunes-03935120b/"><img  height="35em" src="https://user-images.githubusercontent.com/109567488/226512836-75de58d8-c32b-43f6-b4df-ec0d1eb820bd.png"></a> 
-  <a href="wemellysnunes@gmail.com"><img  height="36em" src="https://user-images.githubusercontent.com/109567488/226513794-371dc188-c3e0-43b5-9a9d-94ef88261f75.png"></a> 
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img  height="36em" src="https://user-images.githubusercontent.com/109567488/226513794-371dc188-c3e0-43b5-9a9d-94ef88261f75.png"></a> 
 </div>
 
 

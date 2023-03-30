@@ -8,12 +8,13 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img  height="36em" src="https://user-images.githubusercontent.com/109567488/226513794-371dc188-c3e0-43b5-9a9d-94ef88261f75.png"></a> 
 </div>
 
-
+<!--
 <div align="center">  
   <h4>Git Status</h4>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wemy-nunes&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemy-nunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+-->
 
 
 </div>

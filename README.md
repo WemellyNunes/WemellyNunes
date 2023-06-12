@@ -17,6 +17,15 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemy-nunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<div align="center">  
+  <h3>Pins</h3>
+  <a src="https://github.com/wemy-nunes/DesafiosTraineeEJ">
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=wemy-nunes&repo=DesafiosTraineeEJ&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+  </a>
+  <a src="https://github.com/wemy-nunes/landing-page-HTML-CSS">
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=wemy-nunes&repo=landing-page-HTML-CSS&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+  </a>
+</div>
 
 </div>
 <div align="center">

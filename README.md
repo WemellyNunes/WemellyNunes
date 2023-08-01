@@ -36,6 +36,7 @@
 <h3>Main Skills: </h3>
   <img align="center" alt="HTML" height="40" width="50" src="./img/icons8-html-50.png">
   <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-css-50.png">
+  <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-js-50.png">
   <img align="center" alt="MYSQL" height="40" width="50" src="./img/icons8-mysql-50 (1).png">
   <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-nodejs-48.png">
   <img align="center" alt="CSS" height="20" width="20" src="./img/icons8-react-16.png">

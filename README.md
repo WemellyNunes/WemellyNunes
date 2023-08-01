@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">  
-  <h3>Pins</h3>
+  <h3>Highlight Pins</h3>
   <a href="https://github.com/WemellyNunes/DesafiosTraineeEJ">
     <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=DesafiosTraineeEJ&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
   </a>
@@ -46,9 +46,8 @@
 </div>
 <div align="center">
 <h3>Studying in this moment: </h3>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-java-50.png">
+
 </div>
 
 <div align="center">

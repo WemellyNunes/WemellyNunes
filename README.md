@@ -52,12 +52,12 @@
 
 <div align="center">
 <h3>Tools: </h3>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=ededed">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="42" src="https://user-images.githubusercontent.com/109567488/226511545-3fe77de0-4c7c-4f8b-98ba-41fff4bad074.png">
+  <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-joomla-50.png">
+  <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-blender-50.png">
+  <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-figma-48.png">
+  <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-photoshop-50.png">
+  <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-illustrator-50 (1).png">
+</div>
   
 
 

@@ -34,9 +34,12 @@
 </div>
 <div align="center">
 <h3>Main Skills: </h3>
-  <img align="center" alt="HTML" height="40" width="50" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=da70d6">
-  <img align="center" alt="CSS" height="40" width="50" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=da70d6">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=da70d6">
+  <img align="center" alt="HTML" height="40" width="50" src="./img/icons8-html-50.png">
+  <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-css-50.png">
+  <img align="center" alt="MYSQL" height="40" width="50" src="./img/icons8-mysql-50 (1).png">
+  <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-nodejs-48.png">
+  <img align="center" alt="CSS" height="20" width="20" src="./img/icons8-react-16.png">
+
 </div>
 
 </div>

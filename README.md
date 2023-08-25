@@ -29,6 +29,9 @@
   <a href="https://github.com/WemellyNunes/Blender-3D-Assets">
     <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=Blender-3D-Assets&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
   </a>
+  <a href="https://github.com/WemellyNunes/API_REST">
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=API_REST&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+  </a>
 </div>
 
 </div>

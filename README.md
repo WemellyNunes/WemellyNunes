@@ -13,24 +13,24 @@
 
 <div align="center">  
   <h3>Git Status</h3>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WemellyNunes&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemellyNunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WemellyNunes&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=DA70D6&bg_color=00000000"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemellyNunes&layout=compact&hide_border=true&title_color=DA70D6&text_color=DA70D6&bg_color=00000000" />
 </div>
 
 <div align="center">  
   <h3>Highlight Pins</h3>
   <a href="https://github.com/WemellyNunes/DesafiosTraineeEJ">
-    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=DesafiosTraineeEJ&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=DesafiosTraineeEJ&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=DA70D6&bg_color=00000000"/> 
   </a>
   <a href="https://github.com/WemellyNunes/landing-page-HTML-CSS">
-    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=landing-page-HTML-CSS&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=landing-page-HTML-CSS&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=DA70D6&bg_color=00000000"/> 
   </a>
   </a>
   <a href="https://github.com/WemellyNunes/Blender-3D-Assets">
-    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=Blender-3D-Assets&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=Blender-3D-Assets&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=DA70D6&bg_color=00000000"/> 
   </a>
   <a href="https://github.com/WemellyNunes/API_REST">
-    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=API_REST&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img width="350vh" src="https://github-readme-stats.vercel.app/api/pin/?username=WemellyNunes&repo=API_REST&show_owner=true&show_icons=true&count_private=true&hide_border=false&title_color=DA70D6&icon_color=DA70D6&text_color=DA70D6&bg_color=00000000"/> 
   </a>
 </div>
 

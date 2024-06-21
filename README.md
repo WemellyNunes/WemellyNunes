@@ -1,6 +1,6 @@
 <div align="center">
 <img width="300" src="./img/Hello! I'm Wemelly (1).png"/>
-  <p>I am a student in Information Systems, looking to take the first step in my career</p>
+
 </div>
 <br>
 <div align="center">

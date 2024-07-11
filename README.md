@@ -43,15 +43,12 @@
   <img align="center" alt="MYSQL" height="40" width="50" src="./img/icons8-mysql-50 (1).png">
   <img align="center" alt="CSS" height="40" width="40" src="./img/icons8-nodejs-48.png">
   <img align="center" alt="CSS" height="20" width="20" src="./img/icons8-react-16.png">
-
-</div>
-
-</div>
-<div align="center">
-<h3>Studying in this moment: </h3>
   <img align="center" alt="CSS" height="40" width="50" src="./img/icons8-java-50.png">
 
 </div>
+
+</div>
+
 
 <div align="center">
 <h3>Tools: </h3>
